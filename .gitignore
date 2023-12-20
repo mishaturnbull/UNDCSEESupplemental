@@ -1,0 +1,12 @@
+# editor / IDE files
+*.swp
+*.swo
+
+# compiled python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# documentation output
+docs/_build/
+
