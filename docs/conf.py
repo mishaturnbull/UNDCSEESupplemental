@@ -29,6 +29,7 @@ source_suffix = {
         '.md': 'markdown',
     }
 
+# show all warnings, so we can fix all warnings
 nitpicky = True
 
 # -- Options for ToDo extension ----------------------------------------------
@@ -48,4 +49,10 @@ html_theme_options = {
         "use_edit_page_button": True,
         "use_issues_button": True,
     }
+
+# -- Options for LaTeX output ------------------------------------------------
+
+# turn on page numbers and URLs for hyperlinks -- extremely helpful if printed
+latex_show_pagerefs = True
+latex_show_urls = 'footnote'
 
