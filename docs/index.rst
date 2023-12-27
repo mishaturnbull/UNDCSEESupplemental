@@ -15,6 +15,8 @@ UND CSCI / EE Supplementary Information
    version-control-systems/index
    programming-tools/index
 
+   compsci-lore/index
+
    about-this-site/index
 
 .. only:: html
