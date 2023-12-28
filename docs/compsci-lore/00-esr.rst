@@ -16,5 +16,5 @@ Eric S. Raymond homepage
 
   * `The lost art of structure packing <http://www.catb.org/esr/structure-packing/>`_
 
-* `Why Python? <http://www.linuxjournal.com/article/3882>`_
+* `Why Python? <https://www.linuxjournal.com/article/3882>`_
 

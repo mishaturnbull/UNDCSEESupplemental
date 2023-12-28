@@ -32,6 +32,11 @@ source_suffix = {
 # show all warnings, so we can fix all warnings
 nitpicky = True
 
+# set the date format
+# do NOT set the `today` variable!  sphinx will leave it as <the date/time when
+# documentation is compiled>, which is what we want.
+today_fmt = "%Y-%m-%d %H:%M:%S (%z)"
+
 # -- Options for ToDo extension ----------------------------------------------
 
 todo_include_todos = True

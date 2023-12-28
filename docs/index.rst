@@ -8,6 +8,21 @@
 UND CSCI / EE Supplementary Information
 =======================================
 
+.. only:: html
+
+   .. image:: https://readthedocs.org/projects/undcseesupplemental/badge/?version=latest
+      :target: https://undcseesupplemental.readthedocs.io/en/latest/?badge=latest
+      :alt: Documentation Status
+
+.. only:: not html
+
+   Hi there!  It looks like you may not be reading this online.  Please
+   occasionally check back on `the most recent online version
+   <https://undcseesupplemental.readthedocs.io/en/latest/>`_ to make sure you
+   get the latest info.
+
+The documentation you're viewing was created on |today|.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

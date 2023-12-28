@@ -17,6 +17,7 @@ comes along, that's probably all that'll be covered here.  Enjoy!
    :maxdepth: 2
    :caption: Contents:
 
+   editors/index
    compilers/index
    debuggers/index
 
