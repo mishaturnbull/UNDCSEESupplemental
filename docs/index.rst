@@ -31,6 +31,7 @@ The documentation you're viewing was created on |today|.
    programming-tools/index
 
    compsci-lore/index
+   extras/index
 
    about-this-site/index
 
