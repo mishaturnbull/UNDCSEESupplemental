@@ -36,8 +36,9 @@ The documentation you're viewing was created on |today|.
    :maxdepth: 2
    :caption: Contents:
 
-   version-control-systems/index
+   languages/index
    programming-tools/index
+   version-control-systems/index
 
    compsci-lore/index
    extras/index
