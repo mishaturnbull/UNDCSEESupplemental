@@ -23,6 +23,15 @@ UND CSCI / EE Supplementary Information
 
 The documentation you're viewing was created on |today|.
 
+.. only:: latex
+
+   Should you choose to print this PDF, note that the hyperlinks (obviously)
+   won't be clickable on paper.  Links to other places within this document
+   will be followed by a page number, like this: :ref:`topics/lore/esr`.  Links
+   to places outside of this document (websites) will be followed by a footnote
+   number, and the corresponding footnote indicates the URL to reference, like
+   this: `Example.com website <https://example.com>`_.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

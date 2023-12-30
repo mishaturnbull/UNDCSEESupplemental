@@ -26,3 +26,6 @@ This page lists some free online textbooks, in no particular order.
 * https://github.com/trimstray/the-book-of-secret-knowledge, a free and open
   source collection of materials and tools
 
+* `The Linux Command Line <https://www.linuxcommand.org/tlcl.php>`_, a free
+  book on using the Linux command line
+

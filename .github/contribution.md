@@ -74,3 +74,8 @@ breaking.
 5. Write and structure documentation such that it appears similarly structured
    in both HTML and PDF formats
 
+## Content to avoid
+
+Please do not add or link to content that violates copyright law (such as
+copyrighted textbooks, presentations, or other media).
+
