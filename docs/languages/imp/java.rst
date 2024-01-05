@@ -11,10 +11,11 @@ Java is a high-level, object-oriented, strongly typed, imperative programming
 language.  By design, it is platform independent; running on an abstracted Java
 Virtual Machine (JVM).
 
-.. todo::
+.. seealso::
 
-   INET add outlinks for java (official docs?)
-
+   * `Oracle's official Java documentation
+     <https://docs.oracle.com/en/java/>`_.  In most cases, you probably want
+     the `Java SE subpage <https://docs.oracle.com/en/java/javase/21/>`_.
 
 Syntax
 ------

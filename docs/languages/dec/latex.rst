@@ -8,17 +8,16 @@
 LaTeX
 =====
 
-LaTeX (pronounced "Lay-Tek") is a document typesetting system created by Donald
-Knuth.  Primarily, it is nowadays used to generate PDF files from static code
+LaTeX (pronounced "Lay-Tek") is a document typesetting system created by Leslie
+Lamport.  Primarily, it is nowadays used to generate PDF files from static code
 in a non-WYSIWYG workflow.
 
-.. todo::
+.. seealso::
 
-   INET outbound links for LaTeX
-
-.. todo::
-
-   Seealso links for LaTeX compilers (at least miktex and pdftex)
+   * `LaTeX Project homepage <https://www.latex-project.org/>`_
+   * `TeX Live <https://www.tug.org/texlive/>`_, a TeX distribution and
+     compiler
+   * `MiKTex <https://miktex.org/>`_, a TeX distribution and compiler
 
 Syntax
 ------

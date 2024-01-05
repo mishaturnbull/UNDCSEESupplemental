@@ -13,12 +13,15 @@ level language <https://queue.acm.org/detail.cfm?id=3212479>`_ as well.
 
 .. todo::
 
-   INET add outlinks for C (*find* the official C standard?? docs??)
-
-.. todo::
-
    seealso for the rest of the C family (C++, objC.  C# is a bastard child of
    Microsoft, C++, and Java, and shouldn't be counted as part of the C family)
+
+.. seealso::
+
+   * `The GNU C Reference Manual
+     <https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html>`_
+   * The official C standard is not available for free, however, there are
+     draft versions available online.
 
 Syntax
 ------

@@ -12,9 +12,9 @@ language.  It is generally considered a good language for early programming
 education, for its quick write-run-debug cycle and (debatably) out-of-the-way
 syntax.
 
-.. todo::
+.. seealso::
 
-   INET outbound links to python website & docs
+   * `Python 3 Documentation <https://docs.python.org/3/index.html>`_
 
 .. attention::
 

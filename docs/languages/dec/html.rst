@@ -13,13 +13,17 @@ webpages are written in.
 
 .. todo::
 
-   INET Outlink to official HTML docs (is there such?  w3schools maybe?)
-
-.. todo::
-
-   Seealso links to CSS (and XML), when those pages are written
+   Seealso links to CSS (and XML), when those pages are written (ideally by
+   someone without disdain for web development)
 
 .. seealso::
+
+   * `WHATWG Living Standard <https://html.spec.whatwg.org/multipage/>`_, the
+     official "always updated" HTML specification
+     
+     * https://stackoverflow.com/a/34984276 , an interesting note on W3C vs
+       WHATWG (and why I chose to put the WHATWG link there instead of W3C's
+       standard)
 
    * HTML also frequently includes :ref:`topics/languages/imp/javascript` to
      improve interactability

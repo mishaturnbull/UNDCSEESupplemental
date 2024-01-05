@@ -12,12 +12,10 @@ in both plaintext (source) format and when rendered.  Most commonly, markdown
 engines produce HTML as output which is viewable in any web browser, though
 other engines exist which transform markdown directly to PDF.
 
-.. todo::
-
-   INET Markdown outbound links -- need at least official spec
-
 .. seealso::
 
+   * `The official Markdown site
+     <https://daringfireball.net/projects/markdown/>`_
    * :ref:`topics/languages/dec/restructuredtext`, a comparable markup language
      leaning more towards "prettier when rendered"
 
