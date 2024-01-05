@@ -43,6 +43,7 @@ The documentation you're viewing was created on |today|.
    compsci-lore/index
    extras/index
 
+   und/index
    about-this-site/index
 
 .. only:: html

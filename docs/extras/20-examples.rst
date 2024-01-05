@@ -25,3 +25,6 @@ of ... stuff.
 * https://github.com/vxunderground/MalwareSourceCode, a repository of
   malware source code
 
+* https://pythontutor.com/ is a great website to visualize execution flow in
+  Python and C
+
